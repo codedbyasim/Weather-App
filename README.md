@@ -34,19 +34,8 @@ A sleek and modern weather web application built using **HTML, CSS, and JavaScri
    cd Weather-App
 
 
+## 👨‍💻 Author
 
-Weather-App/
-│
-├── images/
-│   ├── search.png
-│   ├── clouds.png
-│   ├── clear.png
-│   ├── drizzle.png
-│   ├── mist.png
-│   ├── rain.png
-│   ├── humidity.png
-│   └── wind.png
-│
-├── index.html
-├── style.css
-└── README.md
+**Muhammad Asim Hanif**
+📧 Email: [asimjutt2003@gmail.com](mailto:asimjutt2003@gmail.com)
+🔗 GitHub: [@codedbyasim](https://github.com/codedbyasim)
