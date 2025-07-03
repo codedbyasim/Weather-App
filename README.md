@@ -62,7 +62,6 @@ weather-app/
 ├── index.html
 ├── style.css
 └── README.md
-```
 
 ---
 
