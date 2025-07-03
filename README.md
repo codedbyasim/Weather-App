@@ -93,8 +93,9 @@ Feel free to [open an issue](https://github.com/codedbyasim/Weather-App/issues) 
 
 ## 👨‍💻 Author
 
-**Muhammad Asim Hanif**
-📧 Email: [asimjutt2003@gmail.com](mailto:asimjutt2003@gmail.com)
+**Muhammad Asim Hanif**  
+📧 Email: [asimjutt2003@gmail.com](mailto:asimjutt2003@gmail.com)  
 🔗 GitHub: [@codedbyasim](https://github.com/codedbyasim)
 
 ---
+
