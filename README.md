@@ -33,7 +33,7 @@ A sleek and modern weather web application built using **HTML, CSS, and JavaScri
    git clone https://github.com/codedbyasim/Weather-App.git
    cd Weather-App
 ````
-
+---
 ## 📂 Folder Structure
 
 ```
