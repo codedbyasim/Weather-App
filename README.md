@@ -34,6 +34,8 @@ A sleek and modern weather web application built using **HTML, CSS, and JavaScri
    cd Weather-App
 ````
 
+---
+
 2. **Open `index.html`** in your preferred browser.
 
 3. **Add your API key** in the JavaScript file:
