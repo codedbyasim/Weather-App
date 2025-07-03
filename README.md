@@ -34,27 +34,6 @@ A sleek and modern weather web application built using **HTML, CSS, and JavaScri
    cd Weather-App
 ````
 
----
-
-2. **Open `index.html`** in your preferred browser.
-
-3. **Add your API key** in the JavaScript file:
-
-   ```javascript
-   const apiKey = "YOUR_API_KEY";
-   ```
-
----
-
-## 🔑 Get an OpenWeatherMap API Key
-
-1. Visit [OpenWeatherMap](https://openweathermap.org/api)
-2. Sign up and log into your account
-3. Navigate to **API keys** section
-4. Copy your API key and paste it into the `script` in `index.html`
-
----
-
 ## 📂 Folder Structure
 
 ```
