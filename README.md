@@ -1,8 +1,4 @@
-Zaroor! Neeche aapka **improved and corrected `README.md`** version diya gaya hai:
 
----
-
-````markdown
 # 🌦️ Weather App
 
 A sleek and modern weather web application built using **HTML, CSS, and JavaScript** that lets users search for real-time weather data by city. It utilizes the **OpenWeatherMap API** to fetch current weather details including temperature, humidity, wind speed, and dynamic weather icons.
